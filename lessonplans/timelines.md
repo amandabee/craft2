@@ -46,7 +46,9 @@ Mother Jones took the same tool and used it to cover [Mitt Romney's record](http
 ProPublica's Timeline Setter and CartoDB's Torque are more complex -- if you want to get skilled at tools like that, take Amanda's DataViz class. 
 
 ## Hands On
-Pick one story you're working on and make a timeline using Timeline.JS with at least 5 key dates in it. If you don't have a single story that has dates or times worth working with, look at the recent building explosion in Harlem, or the missing Malaysian Airlines flight and make a timeline out of one or the other of those two stories. 
+Pick one story you're working on and make a timeline using Timeline.JS with at least 5 key dates in it. If you don't have a single story that has dates or times worth working with, look at the recent building explosion in Harlem, or the missing Malaysian Airlines flight and make a timeline out of one or the other of those two stories.
+
+Or [history of MTA fares](http://www.silive.com/news/index.ssf/2009/03/a_history_of_mta_fare_hikes.html)
 
 # Unfiltered Examples
 
