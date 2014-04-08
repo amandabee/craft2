@@ -1,0 +1,1 @@
+[Excellent Readng from Brooklyn Museum on Community](http://www.brooklynmuseum.org/community/blogosphere/2014/04/04/social-change/)
