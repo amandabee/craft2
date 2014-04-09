@@ -4,6 +4,8 @@ We used to be able to use Zeega for some of this, but it doesn't do half of what
 
 We can still use basic HTML and jQuery. You can use Hype, though I'm of the opinion that your time is better spent scaling down your plans and then using some basic HTML. 
 
+Examples: Boston bombing explainer. 
+
 
 ## Using jQuery
 
