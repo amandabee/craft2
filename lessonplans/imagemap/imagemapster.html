@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>ImageMapster Demo</title>  
+  <script type='text/javascript' src='//code.jquery.com/jquery-1.11.0.js'></script>
+  <script type='text/javascript' src="//www.outsharked.com/scripts/jquery.imagemapster.js"></script>
+  <style type='text/css'>
+    #box_thing {
+    width: 800px;
+    height: 50px;
+    border: 5px dotted #CCC;
+    margin: 15px;
+    padding: 20px;
+  }
+  </style>
+  <script type='text/javascript' src="imagemapster.js"></script>
+</head>
+<body>
+<div id="box_thing"></div>
+<img id="carsphoto" src="http://brooklynlocal.info/craft2/lessonplans/imagemap/Bronx_555748.jpg" usemap="#carsmap">
+<map id="image_map" name="carsmap">
+    <area name="gm" alt="" title="GM Sign" href="#" shape="rect" coords="270,373,304,406" />
+    <area name="wall" alt="" title="Middle building" href="#" shape="poly" coords="343,76,338,194,552,199,553,79" />
+    <area name="car" alt="" title="Last car" href="http://journalism.cuny.edu" shape="poly" coords="481,340,561,343,595,329,666,337,701,359,735,368,742,386,704,386,692,388,681,397,667,397,652,388,612,386,558,380,543,378,530,379,513,379,504,371,504,362,488,364" />
+    
+</map>
+  
+</body>
+</html>
+
+
