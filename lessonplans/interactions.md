@@ -47,6 +47,10 @@ You'll notice that there's an extra one, a 2px by 2px zone at the bottom right o
 
 Notice the conventions are different between JS and HTML. HTML uses `attribute=""` while javascript uses `attribute: "",` That makes a difference, but our goal here isn't to write JS from scratch.
 
+So here's my working fiddle: http://jsfiddle.net/s38bw/2/
+
+And a super bare bones version: http://jsfiddle.net/s38bw/5/
+
 #Mouseovers
 
 We used to be able to use Zeega for some of this, but it doesn't do half of what it used to.
