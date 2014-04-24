@@ -62,11 +62,18 @@ If you're new to HTML, you'll notice that you're dealing with a couple of things
             toolTip: "City law only regulates rents on buildings with more than 4 units. "
         }]
 
-13. Test your work! Update if it's working so you've got a new good baseline. If it isn't working, troubleshoot. 
+13. Test your work! Update if it's working so you've got a new good baseline. If it isn't working, troubleshoot. For reference, here's what I've got so far: <http://jsfiddle.net/aHDyy/1/>
 14. What are you actually doing? Go look up those options in the [Mapster documentation](http://www.outsharked.com/imagemapster/default.aspx?docs.html#tooltip-options). Don't worry too much if half of it seems Greek. Get in the habit of looking over the documentation, even if some of it is far too dense.
 
 14. Add a hover image. 
+
+    render_highlight: {
+        altImage: 'http://brooklynlocal.info/craft2/tutorials/homes_color.png'
+    }
         
+15. You've done a lot already. Well done. Here's what I wound up with: <http://jsfiddle.net/aHDyy/2/>
+
+
 
 ## Troubleshooting
 
