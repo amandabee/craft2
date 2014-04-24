@@ -59,6 +59,9 @@ We can still use basic HTML and jQuery. You can use Hype, though I'm of the opin
 
 Examples: Boston bombing explainer. 
 
+## Planning
+I want to talk a little bit about how we plan. 
+
 
 ## Using jQuery
 
