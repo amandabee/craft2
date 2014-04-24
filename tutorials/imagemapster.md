@@ -35,7 +35,7 @@ If you're new to HTML, you'll notice that you're dealing with a couple of things
 
 9. Now would be a good time to "run" your JSFiddle to make sure the image shows up and check for errors with JSHint. You should see a red screen all of your map areas. If you don't, start troubleshooting. If you do, use "Save" to store this good baseline if you don't see any errors. 
 
-10. Add a `mapKey` to your function. If you used `name` to set the keys, you'd add `mapKey: 'name'`: 
+10. Add a [`mapKey`](http://www.outsharked.com/imagemapster/default.aspx?docs.html#mapkey) to your function. If you used `name` to set the keys, you'd add `mapKey: 'name'`: 
 
         $(document).ready(function (){
         	$('#imgID').mapster({        	
@@ -45,6 +45,27 @@ If you're new to HTML, you'll notice that you're dealing with a couple of things
             });
         }); 
 
+11. Check your work! From here on out, figure that after every step you'll want to check your work with "Run". In this case you won't see any changes, but you want to make sure you didn't break anything.
+
+12. Add some tooltips. I have three `area` set in my `map`. They're named "cashdoubler", "crossword" and "letters". Keep track of your commas!
+ 
+        showToolTip: true,
+        toolTipClose: ["area-mouseout"],
+        areas: [{
+            key: "church",
+            toolTip: "As New York City churches shutter their doors, groups like AA that have traditionally relied on church basements for meeting space are left wandering."
+        }, {
+            key: "bank",
+            toolTip: "348 14th Street was built as a bank. It has housed a pharmacy for the last 10 years."
+        }, {
+            key: "woodframe",
+            toolTip: "City law only regulates rents on buildings with more than 4 units. "
+        }]
+
+13. Test your work! Update if it's working so you've got a new good baseline. If it isn't working, troubleshoot. 
+14. What are you actually doing? Go look up those options in the [Mapster documentation](http://www.outsharked.com/imagemapster/default.aspx?docs.html#tooltip-options). Don't worry too much if half of it seems Greek. Get in the habit of looking over the documentation, even if some of it is far too dense.
+
+14. Add a hover image. 
         
 
 ## Troubleshooting
