@@ -3,6 +3,11 @@
 
 ## Rough Notes
 
+New York Times
+
+http://www.nytimes.com/interactive/2014/us/big-middle-callout.html
+http://query.nytimes.com/search/sitesearch/?action=click&contentCollection&region=TopBar&module=SearchSubmit&pgtype=undefined#/contribute%20to%20our%20reporting
+
 Detroit
  
 http://www.thetakeaway.org/story/69980-detroit-txt-mightier-sword/
