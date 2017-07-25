@@ -1,4 +1,4 @@
-#JS Fiddle Edition
+# JS Fiddle Edition
 
 This [Absolute Beginners](http://members.shaw.ca/sites/AbsoluteBeginners/beginner1.htm) tutorial is great, but if "Create an HTML5 document" is already making you want to crawl under your desk with I-don't-know-how-to-do-that frustration, you could just use JSFiddle to get started.
 
